@@ -1,0 +1,24 @@
+# ===== FRONTEND =====
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+
+# ===== BACKEND =====
+backend/node_modules/
+backend/uploads/
+backend/.env
+
+# ===== GENERAL =====
+node_modules/
+.env
+dist/
+build/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
